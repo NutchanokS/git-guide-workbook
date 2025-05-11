@@ -7,4 +7,4 @@ editor: visual
 
 ## Introduction
 
-Modify example.qmd for Git Guidance Workbook in master branch.
+Fix conflict in example.qmd with new thing.
