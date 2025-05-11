@@ -8,3 +8,14 @@ editor: visual
 ## Introduction
 
 Fix conflict in example.qmd with new thing.
+
+## Simple Plot
+
+```{r}
+# Define the data vector with 5 values
+data <- c(1, 3, 6, 4, 9)
+
+# Graph the data vector with all defaults
+plot(data)
+```
+
